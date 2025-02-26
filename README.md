@@ -25,5 +25,6 @@ Here are some of the languages and tools I'm familiar with:
 - ☕ A good cup of coffee solves everything
 
 ## 🌷 Projects
+- [`🤖 Reinforcement Learning with Unity`](https://github.com/LaraKleinheld/PawesomePals)  
 **`🚧Work in progress🚧`**
 
